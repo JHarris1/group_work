@@ -2,6 +2,10 @@
 // each resistor costs EUR 4
 float fctCapacitors(int iCapacitors)
 {
-   // edit here:
+   int iPrize=0;
+   iPrize=iCapacitors*4;
+
+
+   return iPrize;
 
 }
